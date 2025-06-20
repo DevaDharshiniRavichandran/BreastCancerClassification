@@ -1,5 +1,7 @@
 # Breast Cancer Genetic Mutation Classification using 3D MRI
-
+<p align="center">
+  <img src="image.png" alt="image" width="600"/>
+</p>
 ## Overview
 
 This project focuses on the classification of breast cancer genetic mutations—such as **BRCA1/2**—using **3D MRI** data. Due to the complexity of MRI signals and the small sample sizes in medical imaging, this remains a challenging and underexplored research area.
